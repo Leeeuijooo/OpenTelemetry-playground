@@ -1,5 +1,6 @@
 # venv
 otel-youtube/
+./event-exception-state/new-venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
